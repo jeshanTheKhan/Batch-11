@@ -1,6 +1,6 @@
 # Full Stack Development - Batch 11 (Programming Hero)
 
-![Full Stack Development](https://drive.google.com/file/d/1RctDnLqmCcpoGTIhC7zOemsAF8vMbMiA/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1RctDnLqmCcpoGTIhC7zOemsAF8vMbMiA/view?usp=drive_link">
 
 ## About this Repository
 
