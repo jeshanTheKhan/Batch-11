@@ -1,0 +1,33 @@
+#greeding{
+    text-align: center;
+    color: blue;
+}
+#greeding:hover{
+    text-align: center;
+    color: black;
+}
+#one{
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 3px outset blue;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+.skill{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    background-color: azure;
+    border: 1px outset azure;
+border-radius: 10px;
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+
+
+}
+.container ol{
+    color: blueviolet;
+}

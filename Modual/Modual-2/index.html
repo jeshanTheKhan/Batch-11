@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Modula-2</title>
+    <!-- Internal Css -->
+     <style>
+       
+        #p2{
+            font-size: 32px;
+            background-color: blue; 
+            text-align: center;
+            font-style: italic;
+        }
+        li{
+            color: Red;
+            background-color: blanchedalmond;
+            font-size: 30px;
+            text-align: justify;
+            font-style: oblique;
+            text-decoration:underline;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .name{
+            background-color: aquamarine;
+            color: black;
+            text-align: right;
+        }
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            border: 20px  solid azure;
+            box-shadow: 10px 10px 20px blueviolet;
+          }
+          
+          td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            
+            padding: 8px;
+          }
+          th{
+            background-color: beige;
+          }
+          
+          
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          }
+         
+     </style>
+</head>
+<body>
+    <!-- Inline Css -->
+    <p id="p1" style="color: purple;">Welcome to first modual</p>
+     <p id="p2" style="color: red;">It's Jeshan</p>
+
+     <ul>
+        <li>Inline</li><br>
+        <li>Internal</li><br>
+        <li>External</li>
+     </ul>
+     <ul>
+        <li class="name">Jeshan</li><br>
+        <li class="name">Tamanna</li><br>
+        <li class="name">Muntaha</li>
+     </ul>
+     <h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Jeshan Khan</td>
+    <td>jeshank1123@gmail.com</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Tamanna Sanjana Toma</td>
+    <td>tamannasanjana57@gmail.com</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Muntaha Tabassum</td>
+    <td>muntahatabassum@gmail.com</td>
+    <td>Austria</td>
+  </tr>
+</table>
+<br>
+<form action="">
+    <!-- Input Form -->
+    <h2>User Form</h2>
+    <div class="form">
+        <label for="">Username : </label>
+    <input type="email"><br><br>
+    <label for="">Password</label>
+    <input type="password" name="" id=""><br><br>
+    <label for="">Date</label>
+    <input type="date" name="" id=""><br>
+    <label for="">Gender</label>
+    <input type="radio" name="" id="">Male
+    <input type="radio" name="" id="">Female <br>
+    <label for="">Place</label>
+    <select name="" id="">
+       <option value="">Sylhet</option>
+       <option value="">Dhaka</option>
+       <option value="">Faridpur</option>
+    </select><br><br>
+
+    <button type="submit">Submit</button>
+    </div>
+</form>
+</body>
+</html>

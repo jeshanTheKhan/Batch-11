@@ -1,0 +1,17 @@
+.two{
+    border: 2px outset red;
+    border-radius: 50px;
+    background-color: aqua;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 10px green;
+}
+.two:hover{
+    border: 2px outset blue;
+    border-radius: 50px;
+    background-color: antiquewhite;
+    padding-left: 20px;
+    color:red;
+    padding-right: 20px;
+    box-shadow: 5px 10px yellowgreen;
+}
