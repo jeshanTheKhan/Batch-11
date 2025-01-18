@@ -1,6 +1,6 @@
 # Full Stack Development - Batch 11 (Programming Hero)
 
-<img src="https://drive.google.com/file/d/1RctDnLqmCcpoGTIhC7zOemsAF8vMbMiA/view?usp=drive_link">
+![Full Stack Development](https://drive.google.com/uc?id=1RctDnLqmCcpoGTIhC7zOemsAF8vMbMiA)
 
 ## About this Repository
 
@@ -49,7 +49,7 @@ This repository serves as a practice and modular project workspace for the **Ful
 
 1. Clone the repository:
    ```bash
-   https://github.com/jeshanTheKhan/Batch-11.git
+   git clone https://github.com/jeshanTheKhan/Batch-11.git
    ```
 2. Navigate to the desired module folder and follow the instructions in the respective `README.md` files.
 
@@ -59,7 +59,5 @@ This repository serves as a practice and modular project workspace for the **Ful
 - Understand the core principles of modern web development.
 - Gain hands-on experience with frontend and backend technologies.
 - Develop a full-stack project from scratch.
-
-
 
 > *Happy coding! Keep exploring and building.*
