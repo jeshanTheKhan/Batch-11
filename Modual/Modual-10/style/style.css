@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+}
+.work-san-smain {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+.display-flex{
+    display: flex;
+}
+/* Dark-02 */
+.gray-color{
+    color: #424242;
+}
+/* Dark-01 */
+.black-color{
+    color: #131313;
+}
+/* Dark-03 */
+.dark-color{
+    color: #727272;
+}
+
+/* btn-btn-1 */
+.btn-btn-1{
+    color: #FF900E;
+}
+header{
+    padding: 50px 240px 102px 228px;
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+nav{
+   
+    justify-content: space-between;
+}
+
+.nav-items{
+    margin-top: 13px;
+    list-style: none;
+    margin-right: 30px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+.banner-title {
+    
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.banner-sub-title{
+    text-align: center;
+}
+.banner-title{
+    padding: 10px 60px 10px 45px;
+}
+
+.banner{
+    padding: 150px 400px 102px 400px;
+}
